@@ -1,12 +1,12 @@
 import React from "react";
 import "./dateSelected.css";
+import From from "../from/From";
 
 const DateSelected = () => {
     return (
         <nav className="nav">
-            <div>
-                <p>Texto</p>
-            </div>
+            {/* <From /> */}
+            <p>1</p>
         </nav>
     );
 };
