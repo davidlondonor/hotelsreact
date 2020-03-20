@@ -3,7 +3,7 @@ import "./from.css";
 
 const From = () => {
     return (
-        <div>
+        <div className="selecDate">
             <p>1</p>
         </div>
     );
