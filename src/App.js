@@ -10,8 +10,6 @@ function App() {
             <Header />
             <DateSelected />
             <Cards />
-            <Cards />
-            <Cards />
         </div>
     );
 }
